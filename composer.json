@@ -1,0 +1,12 @@
+{
+    "name": "kobiet/hoinghien",
+    "autoload": {   
+        "psr-4": {
+            "Kobiet\\Hoinghien\\": "src/"
+        },
+        "files": [
+            "global.php"
+        ]
+    },
+    "require": {}
+}
